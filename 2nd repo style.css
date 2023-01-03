@@ -1,4 +1,18 @@
-h1{color:blue;
-text-align:center;
-border:"2px solid red";
+.header{background-image:url('images/jamim.jpeg');
+background-size:500px;
+padding:200px 10px 200px 300px;
+margin:20px 300px;
+text-align:right;
+/* color:rgb(230, 227, 87); */
+border:20px solid navy;
+background-size:50%;
+background-repeat: no-repeat;
+background-position: center;
+
+}
+h1{ color:rgb(100, 165, 26);}
+
+p{ color:blueviolet;
+font-size: 60px;
+
 }
